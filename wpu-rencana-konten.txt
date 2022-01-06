@@ -1,0 +1,2 @@
+Renacana website kopisop
+- Membuat UI untuk customer membeli sebuah menu dari kopisop
