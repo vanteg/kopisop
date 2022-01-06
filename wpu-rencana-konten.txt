@@ -2,5 +2,5 @@ Renacana website kopisop
 - Membuat UI untuk customer membeli
 - memakai react js untuk frontend
 - Membuat db memakai
-- db memakai sql
-- be nya pakai laravel
+- be nya memakai react
+- Vue
