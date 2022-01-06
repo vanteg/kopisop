@@ -1,5 +1,5 @@
 Renacana website kopisop
-- Membuat UI untuk customer membeli sebuah menu dari kopisop
+- Membuat UI untuk customer membeli
 - memakai react js untuk frontend
 - Membuat db memakai
 - be nya memakai react
