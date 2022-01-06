@@ -3,3 +3,4 @@ Renacana website kopisop
 - memakai react js untuk frontend
 - Membuat db memakai
 - be nya memakai react
+- Vue
